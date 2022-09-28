@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_notes",
+  "info": {
+    "displayName": "Notes",
+    "icon": "envelope-square"
+  },
+  "options": {},
+  "attributes": {
+    "Note": {
+      "type": "richtext"
+    }
+  }
+}
